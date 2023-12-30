@@ -1,0 +1,64 @@
+languageCode = "en"
+languageName = "English"
+languageDirection = "ltr"
+weight = 1
+
+title = "The Other Side's Quest"
+copyright = "Copy, _right?_ :thinking_face:"
+
+[params]
+  dateFormat = "2 January 2006"
+
+  # mainSections = ["section1", "section2"]
+# TODO: find an alternative to "beauty of life", for example
+   description = "Explorations of Self-Discovery and Giving Back"
+
+[author]
+   name = "The Other Side's Quest"
+   image = "profile-pic.jpg"
+   headline = "Explorations of Self-Discovery and Giving Back"
+# Add bio to describe my passions: AI, Computer Vision and Deep learning, and my hobbies: piano, several sports like swimming, running, and . Introspective and curious, exploring yoga and meditation, and Eastern philosophy. I love to learn and to teach, and I love to share my knowledge and my experiences.
+   bio = "With a background in AI, Computer Vision and Deep learning, and I am currently exploring ways to apply them to climate change mitigation, regenerative agriculture, ecosystem restoration, and digital health. In my free time, I love sports, to swim, run, and I do yoga regularly. I like playing piano, and plan to learn contemporary dance. Introspective and curious, I recently dived deep into meditation and Eastern philosophy. I love to learn and to teach, and I love to share my knowledge and my experiences."
+   links = [
+  #   { email = "mailto:hello@your_domain.com" },
+  #   { link = "https://link-to-some-website.com/" },
+  #   { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
+  #   { apple = "https://www.apple.com" },
+  #   { blogger = "https://username.blogspot.com/" },
+  #   { codepen = "https://codepen.io/username" },
+  #   { dev = "https://dev.to/username" },
+  #   { discord = "https://discord.gg/invitecode" },
+  #   { dribbble = "https://dribbble.com/username" },
+  #   { facebook = "https://facebook.com/username" },
+  #   { flickr = "https://www.flickr.com/photos/username/" },
+  #   { foursquare = "https://foursquare.com/username" },
+     { github = "https://github.com/rhem42" },
+  #   { gitlab = "https://gitlab.com/username" },
+  #   { google = "https://www.google.com/" },
+  #   { hashnode = "https://username.hashnode.dev" },
+  #   { instagram = "https://instagram.com/username" },
+  #   { keybase = "https://keybase.io/username" },
+  #   { kickstarter = "https://www.kickstarter.com/profile/username" },
+  #   { lastfm = "https://lastfm.com/user/username" },
+  #   { linkedin = "https://linkedin.com/in/username" },
+  #   { mastodon = "https://mastodon.instance/@username" },
+  #   { medium = "https://medium.com/username" },
+  #   { microsoft = "https://www.microsoft.com/" },
+  #   { orcid = "https://orcid.org/userid" },
+  #   { patreon = "https://www.patreon.com/username" },
+  #   { pinterest = "https://pinterest.com/username" },
+  #   { reddit = "https://reddit.com/user/username" },
+  #   { researchgate = "https://www.researchgate.net/profile/username" },
+  #   { slack = "https://workspace.url/team/userid" },
+  #   { snapchat = "https://snapchat.com/add/username" },
+  #   { soundcloud = "https://soundcloud.com/username" },
+  #   { stack-overflow = "https://stackoverflow.com/users/userid/username" },
+  #   { steam = "https://steamcommunity.com/profiles/userid" },
+  #   { telegram = "https://t.me/username" },
+  #   { tiktok = "https://tiktok.com/@username" },
+  #   { tumblr = "https://username.tumblr.com" },
+  #   { twitch = "https://twitch.tv/username" },
+  #   { whatsapp = "https://wa.me/phone-number" },
+  #   { x-twitter = "https://twitter.com/username" },
+  #   { youtube = "https://youtube.com/username" },
+   ]
